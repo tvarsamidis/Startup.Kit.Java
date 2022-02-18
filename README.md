@@ -1,5 +1,5 @@
-# Startup.Kit.Java
-Start-up Kit for Java
+# Starter Kit for Java
+Gentle Java Academy
 
 
 
