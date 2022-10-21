@@ -14,7 +14,7 @@ Gentle Java Academy
 - 4 Core CPU
 
 ## Development IDE
-Download the **[Eclipse IDE package for Enterprise Java and Web Developers](https://www.eclipse.org/downloads/packages/)** and install (approx 500MB). You may use any other IDE if you do have a good reason for doing so, as the code examples will run successfully. Do note, however, that all instruction and support will only be based on the official recommendation given here. 
+Download  **[Apache NetBeans 15](https://netbeans.apache.org/download/nb15/index.html)** and install. You may use any other IDE if you do have a good reason for doing so, as the code examples will run successfully. Do note, however, that all instruction and support will only be based on the official recommendation given here. 
 
 ## Java Development Tools
 1. Java Development Toolkit, download and install the Long Term Support version 17 LTS **[JDK 17](https://jdk.java.net/java-se-ri/17)**. Set up an environment variable named **JAVA_HOME** pointing to the JDK installation folder.
