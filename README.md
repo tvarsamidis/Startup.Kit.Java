@@ -14,19 +14,17 @@ Gentle Java Academy
 - 4 Core CPU
 
 ## Development IDE
-**[Download Apache Netbeans](https://netbeans.apache.org/download/index.html)** and install. In case you prefer using another IDE, that's also fine  as the examples do not make use of any IDE specific functionality, but this is the oficial recommendation. 
+Download the **[Eclipse IDE package for Enterprise Java and Web Developers](https://www.eclipse.org/downloads/packages/)** and install (approx 500MB). You may use any other IDE if you do have a good reason for doing so, as the code examples will run successfully. Do note, however, that all instruction and support will only be based on the official recommendation given here. 
 
 ## Java Development Tools
-1. Java Development Toolkit, download and install the latest LTS version **[JDK 17](https://bell-sw.com/)**. Create then an environmental variable named **JAVA_HOME** pointing to JDK installation folder.
-2. Maven, download **[Maven](https://maven.apache.org/download.cgi)** and follow the **[instructions](https://maven.apache.org/install.html)**. Through Maven dependency management mechanism, we will download every library needed in our projects.  Create then an environmental variable named **MVN_HOME** pointing to Maven's installation folder.
-3. Add **%JAVA_HOME%/bin** and **%MVN_HOME%/bin** to your **PATH** envrionmental variable.
+1. Java Development Toolkit, download and install the Long Term Support version 17 LTS **[JDK 17](https://jdk.java.net/java-se-ri/17)**. Set up an environment variable named **JAVA_HOME** pointing to the JDK installation folder.
+2. Maven, download **[Maven](https://maven.apache.org/download.cgi)** and follow the **[instructions](https://maven.apache.org/install.html)**. Set up an environment variable named **MVN_HOME** pointing to Maven's installation folder.
+3. Set up two additional paths to your **PATH** environment variable, namely **%JAVA_HOME%/bin** and **%MVN_HOME%/bin**.
 
 ## Other tools
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
-2. Create a **[Github account](https://github.com/join)**.
+2. If you do not already have one, create a **[Github account](https://github.com/join)** (this account is free to create and use).
 
 ## RDBMS
-1. Server (https://dev.mysql.com/downloads/mysql/) 
-2. Workbench (https://dev.mysql.com/downloads/workbench/)
-
-
+1. Download and install the latest MySQL Server (https://dev.mysql.com/downloads/mysql/).
+2. Download and install the latest MySQL Workbench (https://dev.mysql.com/downloads/workbench/).
